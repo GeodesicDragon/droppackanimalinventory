@@ -1,0 +1,4 @@
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\DropPackAnimalInventory\Assemblies\DropPackAnimalInventory.dll
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\DropPackAnimalInventory\Source\obj\Debug\DropPackAnimalInventory.csproj.AssemblyReference.cache
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\DropPackAnimalInventory\Source\obj\Debug\DropPackAnimalInventory.csproj.CoreCompileInputs.cache
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\DropPackAnimalInventory\Source\obj\Debug\DropPackAnimalInventory.dll

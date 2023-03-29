@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Drop Pack Animal Inventory</name>
+	<author>GeodesicDragon</author>
+	<packageId>geodesicdragon.droppackanimalinv</packageId>
+	<url>https://discord.gg/BGKnpza</url>
+	<modVersion>1.0.1</modVersion>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<description><![CDATA[<b>ABOUT</b>
+
+So, you've just taken a caravan to a bunch of nearby faction bases, and have returned to your colony with your newfound items. But now you have to go through the inventory of each pack animal and spend ages pressing the 'Drop' button.
+
+Well, now you don't have to do that ever again! This mod adds a button to player-controlled pack animals which makes them drop whatever they have in their inventories. Simply select them all, hit your 'Misc9' button (default I) and everything they are carrying is dumped wherever they are standing, meaning all you have to worry about is getting it hauled away before it deteriorates.
+
+<b>SUPPORT</b>
+
+Please use my Discord server - https://discord.gg/BGKnpza - for all enquiries, as you're more likely to get a response.
+
+<b>TRANSLATION CREDITS</b>
+
+French: DeepL
+German: DeepL
+Italian: DeepL
+Spanish: DeepL
+Ukrainian: DeepL
+
+<b>IMAGE CREDITS</b>
+		
+https://game-icons.net/1x1/sbed/fall-down.html]]></description>
+</ModMetaData>

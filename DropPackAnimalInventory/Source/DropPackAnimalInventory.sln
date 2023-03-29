@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DropPackAnimalInventory", "DropPackAnimalInventory.csproj", "{FEC60817-F0E0-440D-91B2-BA9A49793AAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEC60817-F0E0-440D-91B2-BA9A49793AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEC60817-F0E0-440D-91B2-BA9A49793AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEC60817-F0E0-440D-91B2-BA9A49793AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEC60817-F0E0-440D-91B2-BA9A49793AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6DED580-8705-46A5-9EBB-CAE9956DF275}
+	EndGlobalSection
+EndGlobal
